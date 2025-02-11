@@ -24,7 +24,7 @@ author:
   avatar           : "dthuecks2.jpg"
   name             : "Derek Thuecks"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Associate Professor of Physics"
+  bio              : "Associate Professor of Physics \ Washington College"
   location         : "Chestertown, MD"
   employer         : "Washington College"
   uri              : "https://www.washcoll.edu/people_departments/faculty/dthuecks2.php"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "https://github.com/dthuecks/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -117,7 +117,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -212,10 +212,10 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  research:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
