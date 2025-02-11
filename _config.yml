@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "dthuecks2.jpg"
   name             : "Derek Thuecks"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : #"he/him" # example: "she/her"  
   bio              : "Associate Professor of Physics, \ Washington College"
   location         : "Chestertown, MD"
   employer         : #"Washington College"
@@ -249,14 +249,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
   # _teaching
   - scope:
       path: ""
-      type: research #teaching
+      type: teaching
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
