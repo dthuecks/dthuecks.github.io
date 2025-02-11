@@ -24,9 +24,9 @@ author:
   avatar           : "dthuecks2.jpg"
   name             : "Derek Thuecks"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Associate Professor of Physics \ Washington College"
+  bio              : "Associate Professor of Physics, \ Washington College"
   location         : "Chestertown, MD"
-  employer         : "Washington College"
+  employer         : #"Washington College"
   uri              : "https://www.washcoll.edu/people_departments/faculty/dthuecks2.php"
   email            : "dthuecks2@washcoll.edu" 
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/dthuecks/"
+  github           : "dthuecks"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -252,7 +252,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: research #teaching
     values:
       layout: single
       author_profile: true
