@@ -2,6 +2,7 @@
 title: "Teaching"
 layout: archive
 permalink: /teaching/
+redirect_from:
   - /teaching.html
 ---
 
