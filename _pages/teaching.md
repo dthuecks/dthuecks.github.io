@@ -5,11 +5,12 @@ permalink: /teaching/
 ---
 
 <!-- Uses archive-layout-with-content.md as template -->
-# Education
+
+## Education
 * Ph.D., University of Iowa
 * B.A., Lawrence University
 
-# Courses Taught
+## Courses Taught
 * First Year Seminar: Boon or Boom? Nuclear Technology and Society
 * Physics 101: College Physics I + Lab
 * Physics 102: College Physics II + Lab
@@ -24,8 +25,3 @@ permalink: /teaching/
 * Physics 451: Advanced Physics Laboratory
 * Physics 494: Special Topics - Advanced Computational Physics
 * Physics Seminar
-
-{% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
-{% endfor %}
