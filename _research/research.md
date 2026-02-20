@@ -12,7 +12,3 @@ Prof. Thuecks is an experimental physicist who works with plasmas in a laborator
 Over 99% of the visible matter in the universe is in the plasma state: stars, stellar winds (like our sun’s solar wind), nebulae, and the interstellar medium, among others. As a result, a true understanding of the universe requires an understanding of the plasma state. Naturally-occurring plasmas can also be found here on Earth in the form of lightning, fire, and the aurora.
 
 There are many applications in which artificially-generated plasmas are important. These include fluorescent lights, televisions, arc welding, semiconductor chip manufacturing, and soon even dentistry! Perhaps the most important future application of plasmas is their use in energy production using controlled nuclear fusion. Nuclear fusion is a significantly different process from nuclear fission, which is used in current nuclear power plants. When achieved, fusion will represent a safe and clean energy source using fuel that is virtually inexhaustible.
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
