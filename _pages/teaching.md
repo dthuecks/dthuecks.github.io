@@ -2,6 +2,7 @@
 title: "Teaching"
 layout: archive
 permalink: /teaching/
+  - /teaching.html
 ---
 
 <!-- Uses archive-layout-with-content.md as template -->
