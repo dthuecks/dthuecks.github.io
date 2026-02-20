@@ -16,7 +16,7 @@ permalink: /teaching/
 * Physics 112: General Physics II + Lab
 * Physics 211: Modern Physics + Lab
 * Physics 252: Scientific Modeling and Data Analysis
-* [link](https://dthuecks.github.io/PHY322-QuantumMechanics/ "Physics 322: Quantum Mechanics") 
+* [Physics 322: Quantum Mechanics](https://dthuecks.github.io/PHY322-QuantumMechanics/ "Physics 322: Quantum Mechanics") 
 * Physics 323: Thermodynamics and Statistical Physics
 * Physics 324: Electricity and Magnetism
 * Physics 352: Electronics + Lab
