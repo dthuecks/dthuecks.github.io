@@ -1,10 +1,10 @@
-<!-- Uses archive-layout-with-content.md as template -->
 ---
 title: "Teaching"
 layout: archive
 permalink: /teaching/
 ---
 
+<!-- Uses archive-layout-with-content.md as template -->
 # Education
 * Ph.D., University of Iowa
 * B.A., Lawrence University
