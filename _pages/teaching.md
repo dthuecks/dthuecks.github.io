@@ -23,7 +23,7 @@ redirect_from:
 * [Physics 322: Quantum Mechanics](https://dthuecks.github.io/PHY322-QuantumMechanics/ "Physics 322: Quantum Mechanics") 
 * Physics 323: Thermodynamics and Statistical Physics
 * Physics 324: Electricity and Magnetism
-* Physics 352: Electronics + Lab
+* [Physics 352: Electronics + Lab](https://dthuecks.github.io/PHY352-Electronics/ "PHY 352: Electronics")
 * Physics 451: Advanced Physics Laboratory
 * Physics 494: Special Topics - Advanced Computational Physics
 * Physics Seminar
