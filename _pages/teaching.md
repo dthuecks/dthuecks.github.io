@@ -16,7 +16,7 @@ redirect_from:
 * First Year Seminar: Boon or Boom? Nuclear Technology and Society
 * Physics 101: College Physics I + Lab
 * Physics 102: College Physics II + Lab
-* Physics 111: General Physics I + Lab
+* [Physics 111: General Physics I + Lab](https://dthuecks.github.io/PHY111-112-GeneralPhysics/)
 * Physics 112: General Physics II + Lab
 * Physics 211: Modern Physics + Lab
 * Physics 252: Scientific Modeling and Data Analysis
